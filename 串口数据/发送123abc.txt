@@ -1,0 +1,21 @@
+Bus Hound 6.01 capture on Windows Vista (x64). Complements of www.perisoft.net
+
+发送123abc
+
+  Device - Device ID (followed by the endpoint for USB devices)
+            (21) USB 串行设备 (COM18)
+            (24) USB-SERIAL CH340 (COM5)
+            (50) USB-SERIAL CH340
+            (51) USB-SERIAL CH341A
+  Phase  - Phase Type
+            IN    Data in transfer           
+  Data   - Hex dump of the data transferred
+  Descr  - Description of the phase
+  Cmd... - Position in the captured data
+
+
+Device  Phase  Data                      Description       Cmd.Phase.Ofs(rep)
+------  -----  ------------------------  ----------------  ------------------
+  51    IN     02 45 20 0f  00 0b 00 44  .E ....D                 1.1.0        
+               00 0b ff 0d  03 31 32 33  .....123                 1.1.8        
+               61 62 63 86               abc.                     1.1.16       

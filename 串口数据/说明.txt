@@ -1,0 +1,10 @@
+说明：
+            (50) USB-SERIAL CH340（示意图中5号线）
+            (51) USB-SERIAL CH341A（示意图中6号线）
+
+	         IPOS02204272
+	密码    4272 
+	MAC:    DC:64:B8:3C:F1:1F
+	coD:    1F00
+
+	
