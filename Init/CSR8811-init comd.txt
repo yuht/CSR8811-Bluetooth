@@ -5,9 +5,9 @@ Signal Name	Data
 Digital 5	00 Stop Error
 Digital 6	00 Stop Error
 Digital 5	FF 
-			01 03 0C 00 
-			01 03 0C 00 
-			01 03 0C 00
+		01 03 0C 00 
+		01 03 0C 00 
+		01 03 0C 00
 Digital 6	04 0F 04 00 01 00 00
 Digital 5	01 03 0C 00
 Digital 6	04 0E 04 01 03 0C 00
