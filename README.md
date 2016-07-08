@@ -1,2 +1,5 @@
 # CSR8811-Bluetooth
-CSR8811 bluetooth init £¬pair , conn. , data , disconn.command
+
+working.... NOT FINISHED.
+
+CSR8811 bluetooth init, pair, conn., data , disconn. command
